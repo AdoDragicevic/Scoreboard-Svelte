@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /*background-color: #22252E;
+        background-color: #1e2129;
+    */
+    background-color: #10131a;
+    font-family: 'Roboto', sans-serif;
+}
